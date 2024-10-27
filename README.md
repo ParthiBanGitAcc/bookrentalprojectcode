@@ -1,6 +1,8 @@
 # bookrentalprojectcode
 Book Rental Service Project
 
+Project Link : https://github.com/ParthiBanGitAcc/bookrentalprojectcode.git
+
 1) Open `appsettings.json` file and update connection string's `data source=your server name`
       "ConnectionStrings": {
   "DefaultConnection": "Server=LAPTOP-94RTSUV3\\SQLEXPRESS;Database=BookRentalDB;Trusted_Connection=True;Encrypt=True;TrustServerCertificate=True;MultipleActiveResultSets=true"
